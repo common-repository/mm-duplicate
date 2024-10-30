@@ -1,0 +1,13 @@
+/* CSS Document */
+#options_for_posts
+{
+}
+#options_for_posts div
+{
+	margin-top:2px;
+}
+#options_for_posts label
+{
+	width:130px;
+	font-size:12px;
+}
